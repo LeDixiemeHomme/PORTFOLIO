@@ -1,0 +1,33 @@
+body {
+	background-color: #A01719;
+}
+
+.row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.featurette-divider{
+    margin-bottom: 40px;
+    margin-top: 40px;   
+}
+
+nav {
+    margin-bottom: 40px;
+}
+.formulaire {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.admrea {
+    background-color: #6637F0;
+}
+
+.admcat {
+    background-color: #08A92A;
+}
+
+.conn {
+    background-color: #C5FE00;
+}
